@@ -2,7 +2,7 @@
 
 Pulls Items from within a certain distance to you
 
-To build just run `./gradlew build` after letting gradle import dependencies.
+To build just run `./gradlew build` after letting gradle finish its imports.
 
 The mod lets you configure the magnet's pull range and how its distance is calculated.
 
