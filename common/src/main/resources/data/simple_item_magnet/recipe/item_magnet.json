@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "i i",
+        "L R",
+        "LIR"
+    ],
+    "key": {
+        "i": "minecraft:iron_ingot",
+        "L": "minecraft:lapis_block",
+        "R": "minecraft:redstone_block",
+        "I": "minecraft:iron_block"
+    },
+    "result": {
+        "id": "simple_item_magnet:item_magnet",
+        "count": 1
+    }
+}

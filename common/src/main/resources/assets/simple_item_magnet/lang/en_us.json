@@ -1,0 +1,11 @@
+{
+    "item.simple_item_magnet.item_magnet": "Item Magnet",
+    "item.simple_item_magnet.item_magnet.active": "Item Magnet (Active)",
+    "text.config.simple-item-magnet.option.magnet_distance_mode": "Magnet Distance Mode",
+    "text.config.simple-item-magnet.option.magnet_distance_mode.tooltip": "How Distance is calculated.\n\nEuclidean Distance: finds the shortest path between item and player by drawing a straight line in space.\n\nCardinal Distance: looks at how much the positions differ in each direction (x/y/z), and uses the biggest difference as the distance.",
+    "text.config.simple-item-magnet.option.magnet_pull_distance": "Magnet Pull Distance",
+    "text.config.simple-item-magnet.option.magnet_pull_distance.tooltip": "Specifies maximum distance items can be pulled from.",
+    "text.config.simple-item-magnet.title": "Magnet settings",
+    "text.config.simple-item-magnet.distancemode.euclidean": "Euclidean",
+    "text.config.simple-item-magnet.distancemode.cardinal": "Cardinal"
+}
